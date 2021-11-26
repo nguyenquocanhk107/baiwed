@@ -1,0 +1,23 @@
+.imgqa{
+    height: 200px;
+    width: auto;
+    border:3px solid burlywood;
+}
+.boxx{
+
+margin:0 auto;
+    width:850px;
+    height:900px;
+    padding: 50px;
+    border:1px solid black;
+}
+.box1{
+margin-left: 30px;
+    margin-top: 20px;
+    width: 50%;
+
+
+}
+.boox{
+    border:2px solid plum;
+}
